@@ -177,8 +177,8 @@ const element = {
 
 Ezeket az objektumokat "React elemeknek" nevezzük. Gondolhatunk rájuk úgy, mint annak a leírása amit a képernyőn látni szeretnénk. A React olvassa ezeket az objektumokat és arra használja, hogy a DOM-ot felépítse és naprakészen tartsa.
 
-A következő szekcióban megvizsgáljuk a React elemek DOM-ba való renderelését.
+A [következő szekcióban](/docs/rendering-elements.html) megvizsgáljuk a React elemek DOM-ba való renderelését.
 
 >**Tipp:**
 >
->Javasoljuk, hogy általad használt kódszerkesztőben használd a ["Babel" nyelvdefiníciót](https://babeljs.io/docs/editors), így az ES6 és JSX kódrészek is helyesen lesznek kiemelve. Ez a weboldal a [Oceanic Next](https://labs.voronianski.com/oceanic-next-color-scheme/) színsémát használja, ami ezzel kompatibilis.
+>Javasoljuk, hogy általad használt kódszerkesztőben használd a ["Babel" nyelvdefiníciót](https://babeljs.io/docs/editors), így az ES6 és JSX kódrészek is helyesen lesznek kiemelve.
